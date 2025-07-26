@@ -2,7 +2,7 @@ name: AquaticCrates3
 version: '3.1.5-Beta'
 main: gg.aquatic.aquaticcrates.plugin.CratesPlugin
 api-version: 1.21
-author: LARKYY
+author: Rentner
 folia-supported: true
 
 dependencies:
