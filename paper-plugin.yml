@@ -1,0 +1,19 @@
+name: AquaticCrates3
+version: '3.1.5-Beta'
+main: gg.aquatic.aquaticcrates.plugin.CratesPlugin
+api-version: 1.21
+author: LARKYY
+folia-supported: true
+
+dependencies:
+  server:
+    Waves:
+      load: BEFORE
+      required: true
+    PlaceholderAPI:
+      load: BEFORE
+      required: false
+    Nexo:
+      load: BEFORE
+      required: false
+# ZAJdBNsrlhYWnsnvPnb9e41+1WUCkjF5OxNIjqBlzff48nwH0RfN0Nx0+eSpsO7jmfgkMxvXaj+W8FVQiQuCWYhJwL5O3kNi1B4Xhxo2AHc=

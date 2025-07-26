@@ -1,0 +1,17 @@
+help:
+  - "To be done"
+plugin-reloading: "Plugin is being reloaded!"
+plugin-reloaded: "Plugin has been reloaded!"
+no-permission: "You do not have permissions to do that!"
+unknown-crate: "Unknown crate!"
+unknown-number: "Unknown number format!"
+unknown-player: "Unknown player!"
+no-key: "You do not have key to open this crate!"
+key-received: "&fYou have received &7x%amount% %id% &fkey!"
+plugin-is-not-loaded: "Plugin is not fully loaded!"
+keys-bank:
+  header: "Your virtual keys: "
+  entry: "- %key%: %amount%"
+  footer: ""
+non-initialized-player: "Player's profile has not been completely loaded yet!"
+non-initialized-player-self: "Your player profile has not been completely loaded yet!"
